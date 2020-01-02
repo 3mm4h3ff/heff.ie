@@ -4,7 +4,7 @@ title: $ whoami
 permalink: /about/
 ---
 
-# Full-time student | Part-time Security Analyst | Spare-time CTF player
+# Full-time Student | Part-time Security Analyst | Spare-time CTF player
 
 <img align="left" style="padding-right: 16px;" src="/assets/img/contact.jpg" alt="Emma Heffernan" width="384" />
 
