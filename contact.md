@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-<img align="right" style="padding-right: 16px;" src="/assets/img/contact.jpg" alt="Get in touch" width="310" />
+<img align="right" style="padding-right: 16px;" src="{{ "/assets/img/contact.jpg" | relative_url }}" alt="Get in touch" width="310" />
 
 If you have any enquiries and would like to get in touch, you can write me an email using the form below.
 

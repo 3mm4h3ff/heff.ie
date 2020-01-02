@@ -6,7 +6,7 @@ permalink: /about/
 
 # Full-time Student | Part-time Security Analyst | Spare-time CTF player
 
-<img align="left" style="padding-right: 16px;" src="/assets/img/about.jpg" alt="Emma Heffernan" width="384" />
+<img align="left" style="padding-right: 16px;" src="{{ "/assets/img/about.jpg" | relative_url }}" alt="Emma Heffernan" width="384" />
 
 I am currently a 3rd year student at Technological University Dublin – Blanchardstown, studying a Bachelor of Science
 (Honours) of Computing in Digital Forensics and Cyber Security, but also working as a Security Analyst and supports the
