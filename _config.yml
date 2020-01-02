@@ -32,6 +32,8 @@ copyright: heff.ie
 
 # Build settings
 theme: minima
+sass:
+  sass_dir: _sass
 plugins:
   - jekyll-feed
 

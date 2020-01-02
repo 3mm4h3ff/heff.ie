@@ -1,0 +1,12 @@
+form.contact {
+    input[type=text] {
+        margin-bottom: 5px;
+        width: 382px;
+    }
+    textarea {
+        width: 380px;
+        height: 200px;
+        font-family: $base-font-family;
+        resize: vertical;
+    }
+}
