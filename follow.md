@@ -19,7 +19,7 @@ carousel:
     - idk-3.jpg
 ---
 ## My Who to Follow list:
-### Jan Carroll, Marketing Manager at [edgescan](https://www.edgescan.com) @Theplanjan
+### Jan Carroll, Marketing Manager at [edgescan](https://www.edgescan.com) @theplanjan
 Have you thought about going back to college? Maybe you already have a degree but want to try something else? Well, Jan is the right person to follow. Jan is a jack of all traits, and a wonder to follow. Having studied Marketing then deciding to study Cyber Security and joined the force to which she has exceled. 
 
 ### Kim Saoirse W.Buracioc, Information Security Consultant at [Ward Solutions](https://ward.ie) @mystikPeach
