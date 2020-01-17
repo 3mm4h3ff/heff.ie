@@ -18,7 +18,7 @@ carousel:
     - idk-2.jpg
     - idk-3.jpg
 ---
-## My who to follow list:
+## My Who to Follow list:
 ### Jan Carroll, Marketing Manager at [edgescan](https://www.edgescan.com) @jantheplan
 Have you thought about going back to college? Maybe you already have a degree but want to try something else? Well, Jan is the right person to follow. Jan is a jack of all traits, and a wonder to follow. Having studied Marketing then deciding to study Cyber Security and joined the force to which she has exceled. 
 
@@ -31,5 +31,5 @@ Tanya has been on my following list since I joined back twitter. She is an amazi
 ### Jenny RadCliffe, The People Hacker @Jenny_radcliffe
 I am not sure where to start! Jenny is just an inspiration, having followed her for quite a while to then first meeting her at @irisscert last November to watching her videos on her [website](https://humanfactorsecurity.co.uk/video/). Social engineering is a natural skill for her, She has spent a lifetime learning how to use the “human element” to gain access to the buildings, data and information, and the things we would wish to keep private.
 
-[Infosec Community - Who to Follow?](/whotofollowcom.md/)
-[Organistions / Podcats to follow](/followorg.md/)
+- [Infosec Community - Who to Follow?](/whotofollowcom.md/)
+- [Organistions / Podcats to follow](/followorg.md/)
