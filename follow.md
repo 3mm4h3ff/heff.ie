@@ -33,4 +33,4 @@ I am not sure where to start! Jenny is just an inspiration, having followed her 
 
 ## Infosec Community:
 - [Infosec Community - Who to Follow?](/whotofollowcom.md/)
-- [Organistions / Podcats to follow](/followorg.md/)
+- [Organistions / Podcasts to follow](/followorg.md/)
