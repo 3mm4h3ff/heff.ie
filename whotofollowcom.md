@@ -1,0 +1,144 @@
+Infosec Community  Who To Follow (Twitter):
+
+- Dr Leeanne Hinch  @SpillzHinch
+- Allie Weber  @RobotMakerGirl
+- Shannon Morse  @Snubs
+- Binni Shah  @binitamshah
+- Gabrielle  @gabsmashh
+- Cassie Cage  @akolsuoicauqol
+- Allie  @ac1dgoddes
+- Alyssa Miller  @alyssaM_Infosec
+- Moe Bius  @LockpixNLipstix
+- Azeria  @Fox0x01
+- Julia Evans  @b0rk
+- Whitney Champion  @Shortxstack
+- Tara  @blackroomsec
+- Ashley  @infosec_taylor
+- Katie Moussouris  @k8em0
+- Audrey Renée  @BentleyAudrey
+- Katelyn Bowden  @badassbowden
+- Meadow  @notameadow
+- Floofveon  @comradeEevee
+- Carmen Marsh  @KarmenINTL
+- Karen Worstell  @karenworstell
+- Caroline Wong  @carolineWNWong
+- Dr Dena Haritos Tsamitis  @INIDena
+- Kathleen  @YesItsKathleen
+- Elena Elkina  el0chka
+- Charity Wright  @charityW4CTI
+- Holly Rollo  @HollyRollo
+- Alissa Knight  @alissaknight
+- Katie Nickels  @likethecoins
+- Vandan Verma  @InfosecVandana
+- Snow  @_sn0ww
+- Marija  @marijatweets
+- Diana Kelley  @dianakelley14
+- Dr Magda Chelly  @m49D4ch3lly
+- Heather Ricciuto  @heatherRicciuto
+- Candy Alexander  @NH_Candy
+- Lifen Tan  @w1sp0dcast
+- Dara Boland  @MrDaraBoland 
+- Cassandra Cross  @DrCassCross
+- Ozi  @xymbiz
+- Elizabeth Kolade  @cyberwura
+- Confidence Staveley  @sisinerdtweets
+- Fatokun Oluwatosin  @tosin_fat
+- Sharry Rahman  @sheriffie
+- J. Nkiruka Aimienoho  @infosecAmazon 
+- Febrian Pratama  @febz
+- White Hat Chic  @Chenne__
+- Kim Crawley  @kim_crawley
+- Gingercake  @malwareowl
+- Stelle  @secstelle
+- Maggs  @magpie2800
+- Sherrod DeGrippo  @sherrod_im
+- Ian Coldwater  @iancoldwater
+- Sherpa  @infosecsherpa
+- Steph  @Stephandsec
+- April Lorenzen  @april_lorenzen
+- Neelu Tripathy  @neeluTripathy
+- Aastha Sahni  @aastha1891
+- Zoe Braiterman  @zbraiterman
+- Rupika Luhach  @rup_ki_rani
+- Olivia Liddell  @oliravi 
+- Cheerio  @ch33r10
+- Hush  @ Hush1e
+- MistressVenom  @mistressven0m
+- Web Witch  @ncl_webwitch
+- Jeana Byte  @jeana_byte
+- Kait  @cryptokait
+- Kas  @kas_stoner
+- 50 Shades of Codes and Savage  @5m477
+- ITUS Secure Technologies  @ITUS_tech
+- Laura Czajkowski  @Czajkowski 
+- Barbara B.  @bbogdane
+- Simone Gertz  @simonegiertz
+- Lesley Carhart  @hacks4pancakes
+- Jiska  @naehrdine
+- Trishita Tiwari  @fork_while_1
+- Maddie Stone  @maddiestone 
+- Amanda  @malwareunicorn
+- Raluca  @ralucasaceanu 
+- Bárbara Vieira  @barbaraisv
+- Lexi  @1eea10u
+- Philipa jane Farley  @Justcallmepips
+- Chey Cobb  @Chey_cobb
+- Pete Hewitt  @p373w007
+- Rebecca Deck  @rangere_cha
+- Gaylynn  @glfass
+- Gina Yacone  @gina_yacone
+- Bace16  @bace16_
+- Tinker  @tinkersec
+- David Evenden  @JediMammoth
+- Jayson E.Street  @jaysonstreet
+- Cn33liz  @cneelis
+- Jek Hyde  @hydens33k
+- Fn00b  @fn00b
+- Ben R  @mrb3n813
+- Tony  @tj_null
+- Dave Kennedy  @hackingdave
+- Chris Gates  @carnal0wnage 
+- Jason Lang  @curi0usjack
+- Dave Storie  @seeonedave
+- Cat Murdock  @catmurd0ck
+- Adam Chester  @_xpn_
+- Chris Truncer  @christruncer
+- Lee Kagan  @invokethreatguy
+- Kevin Murphy  @0xhexmex
+- Alex  @offsec_ginger
+- Yan  @bcrypt
+- Vee  @po1zon_p1x13
+- Dot  @d0tdotc0m
+- Eva  @evacide
+- Naj  @forsci_Q
+- CloudGuru  @perfectlyposhmy
+- Sweet Cyber Jones  @jaidbarrett
+- Camille Stewart  @camilleesq
+- Christina  @divinetechgirl
+- Marley  @mkr_ultra
+- Bletchley Punk  @alicegoldfuss
+- Emily Strickland  @emilyst
+- Moose  @litmoose
+- __h4zy  @__h4zy
+- Heidi  @summer_heidi 
+- Beverley Roche  @beverleyroche1
+- Louisa Vogelenzang  @louisa_aus
+- Jacqueline Kernot  @cyberwytch
+- Dr. Mary Aiken  @marycypsy 
+- Helen Oakley  @e2hln 
+- Chrissy Morgan  @5w0rdfish 
+- Sivan Tehila  @securitywitch
+- Keren E  @k3r3n3 
+- Reutooo  @reutooo_
+- Emily Velasco  @mle_online
+- Teri Radichel  @TeriRadichel
+- ZoRo  @rosesecops
+- Christina Lekati  @ChristinaLekati 
+- Dean Kristin N. Johnson  @profknjohnson 
+- Dean Tonya M. Evans  @ipprofevans
+- Niamh Kavanagh  @niamhtalking90
+- Sheree Atcheson  @nirushika
+- Elaine Burke  @CriticalRedPen 
+- Ann O'Dea  @annodeasr
+
+
