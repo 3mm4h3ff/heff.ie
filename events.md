@@ -7,5 +7,5 @@ permalink: /events/
 ![IRISSCON 2019]({{ "/assets/img/events.jpg" | relative_url }})
 
 ### January 
-- 16 ISACA - SheLeadsTech - Dublin Chapter meetup on Diversity
+- 16 ISACA - SheLeadsTech - Dublin Chapter meetup on Diversity <br />
 <img src="{{"/assets/img/isaca.jpg" | relative_url }}" alt="16 ISACA - SheLeadsTech - Dublin Chapter meetup on Diversity" width="350" align="middle"/>
