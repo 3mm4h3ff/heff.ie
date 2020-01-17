@@ -29,6 +29,8 @@ twitter_username: 3mm4h3ff
 github_username: 3mm4h3ff
 linkedin_username: emma-heffernan
 copyright: heff.ie
+jekyll-mentions:
+  base_url: https://twitter.com
 
 # Build settings
 theme: minima
@@ -36,6 +38,7 @@ sass:
   sass_dir: _sass
 plugins:
   - jekyll-feed
+  - jekyll-mentions
 
 # Exclude from processing.
 # The following items will not be processed, by default.
