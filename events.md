@@ -8,4 +8,4 @@ permalink: /events/
 
 ### January 
 - 16 ISACA - SheLeadsTech - Dublin Chapter meetup on Diversity
-![16 ISACA - SheLeadsTech - Dublin Chapter meetup on Diversity ]({{"/assets/img/isaca.jpg" | relative_url }})
+<img src="{{"/assets/img/isaca.jpg" | relative_url }}" alt="16 ISACA - SheLeadsTech - Dublin Chapter meetup on Diversity" width="80" />
