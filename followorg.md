@@ -1,4 +1,4 @@
-### Organsiations:
+Organsiations:
 
  - Women of Security  @WoSECtweets
  - ITSP Magazine  @itspmagazine
