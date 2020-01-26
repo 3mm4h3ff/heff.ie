@@ -14,5 +14,5 @@ permalink: /events/
 
 - 24 BSides Leeds <br />
 <p align="center">
-  <img src="{{"/assets/img/Bsides Leeds.jpg" | relative_url }}" alt="24 BSides Leeds" width="350" />
+  <img src="{{"/assets/img/BSides Leeds.jpg" | relative_url }}" alt="24 BSides Leeds" width="350" />
 </p>
