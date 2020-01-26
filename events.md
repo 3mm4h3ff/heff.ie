@@ -11,6 +11,7 @@ permalink: /events/
 <p align="center">
   <img src="{{"/assets/img/isaca.jpg" | relative_url }}" alt="16 ISACA - SheLeadsTech - Dublin Chapter meetup on Diversity" width="350" />
 </p>
+
 - 24 BSides Leeds <br />
 <p align="center">
   <img src="{{"/assets/img/Bsides Leeds.jpg" | relative_url }}" alt="24 BSides Leeds" width="350" />
