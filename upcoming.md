@@ -4,8 +4,6 @@ title: Upcoming Events
 permalink: /upcoming/
 ---
 
-<img align="center" style="padding-right: 16px;" src="{{ "/assets/img/upcoming.jpg" | relative_url }}" alt="Upcoming" width="350" />
-
 ### February 
 - 6 OWASP - Deloitte Offices
 - 20 RedHat X IBM- Meetup 
