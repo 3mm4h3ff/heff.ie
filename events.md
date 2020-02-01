@@ -6,7 +6,8 @@ permalink: /events/
 
 ![IRISSCON 2019]({{ "/assets/img/events.jpg" | relative_url }})
 
-### Upcoming events
+[www.heff.ie/upcomingevents/](###Upcoming Events)
+
 ### January 2020
 - 16 ISACA - SheLeadsTech - Dublin Chapter meetup on Diversity <br />
 <p align="center">
