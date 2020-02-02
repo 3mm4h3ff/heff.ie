@@ -1,6 +1,7 @@
 ---
 layout: page
-Permalink: /upcoming/
+title: Upcoming
+permalink: /upcoming/
 ---
 
 ### February 
