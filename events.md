@@ -23,3 +23,9 @@ permalink: /events/
 <p align="center">
   <img src="{{"/assets/img/iisf.jpg" | relative_url }}" alt="30 IISF" width="350" />
 </p>
+
+### February 2020
+- 6 OWASP - Dublin Chapter Meetup - Deloitte <br />
+<p align="center">
+  <img src="{{"/assets/img/owasp0.jpg" | relative_url }}" alt="6 OWASP Dublin" width="350" />
+</p>
