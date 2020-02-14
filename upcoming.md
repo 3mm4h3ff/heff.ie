@@ -6,6 +6,7 @@ permalink: /upcoming/
 
 ### February 
 - 20 RedHat X IBM - Meetup
+- 25-29 National Security Summit Ireland - The Helix
 - 29 SISTEM 2020 - UCD
 
 ### March 
