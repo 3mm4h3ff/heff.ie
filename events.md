@@ -31,3 +31,8 @@ permalink: /events/
 <p align="center">
   <img src="{{"/assets/img/owasp0.jpg" | relative_url }}" alt="6 OWASP Dublin" width="350" />
 </p>
+
+- 14 Facebook Georges Quay Visit <br />
+<p align="center">
+  <img src="{{"/assets/img/facebook.jpg" | relative_url }}" alt="14 Facebook Georges Quay Visit" width="350" />
+</p>
