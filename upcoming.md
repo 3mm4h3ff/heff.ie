@@ -5,11 +5,13 @@ permalink: /upcoming/
 ---
 
 ### February 
-- 6 OWASP - Deloitte Offices
-- 20 RedHat X IBM- Meetup 
+- 20 RedHat X IBM - Meetup
+- 29 SISTEM 2020 - UCD
 
 ### March 
+- 3 Postman Galaxy Tour: Dublin
 - 4 International Womens Day - Dell Cherrywood (Invitation ONLY)
+- 12 IBM Think Summit 
 - 16-20 HackTrinity CTF - Online
 - 28 BSides Dublin - Convention Centre
 
@@ -39,9 +41,10 @@ permalink: /upcoming/
 - TBC BSides Belfast
 
 ### October 
-- TBC European Cyber Security Challenge - Austria
+- TBC OWASP Global AppSec Tel Aviv 
 
 ### November
+- 3-7 European Cyber Security Challenge - Austria
 - 9-12 Black Hat EU
 - TBC IRISSCon 
 
