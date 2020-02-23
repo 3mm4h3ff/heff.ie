@@ -5,7 +5,7 @@ permalink: /upcoming/
 ---
 
 ### February 
-- 20 RedHat X IBM - Meetup
+- 26 Cyber Security Meetup by GDG - The Foundry, Google
 - 25-29 National Security Summit Ireland - The Helix
 - 29 SISTEM 2020 - UCD
 
@@ -36,6 +36,7 @@ permalink: /upcoming/
 ### August 
 - 1-6 Black Hat USA
 - 4-5 BSides Las Vegas
+- 6-7 Diana Intitative - Las Vegas
 - 6-9 Defcon - Las Vegas
 
 ### September 
