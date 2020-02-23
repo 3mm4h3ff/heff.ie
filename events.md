@@ -36,3 +36,8 @@ permalink: /events/
 <p align="center">
   <img src="{{"/assets/img/facebook.jpg" | relative_url }}" alt="14 Facebook Georges Quay Visit" width="350" />
 </p>
+
+- 19 UniBuddy Ambassador Training - TUDublin City Campus <br />
+<p align="center">
+  <img src="{{"/assets/img/unibuddy.jpg" | relative_url }}" alt="19 UniBuddy Ambassador Training - TUDublin City Campus" width="350" />
+</p>
