@@ -5,8 +5,6 @@ permalink: /upcoming/
 ---
 
 ### February 
-- 26 Cyber Security Meetup by GDG - The Foundry, Google
-- 25-29 National Security Summit Ireland - The Helix
 - 29 SISTEM 2020 - UCD
 
 ### March 
