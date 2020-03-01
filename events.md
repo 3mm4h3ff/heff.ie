@@ -41,3 +41,8 @@ permalink: /events/
 <p align="center">
   <img src="{{"/assets/img/unibuddy.jpg" | relative_url }}" alt="19 UniBuddy Ambassador Training - TUDublin City Campus" width="350" />
 </p>
+
+- 29 SISTEM 2020 - UCD Campus <br />
+<p align="center">
+  <img src="{{"/assets/img/sistem.jpg" | relative_url }}" alt="29 SISTEM 2020 - UCD Campus" width="350" />
+</p>
