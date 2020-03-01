@@ -4,9 +4,6 @@ title: Upcoming
 permalink: /upcoming/
 ---
 
-### February 
-- 29 SISTEM 2020 - UCD
-
 ### March 
 - 3 Postman Galaxy Tour: Dublin
 - 4 International Womens Day - Dell Cherrywood (Invitation ONLY)
@@ -20,6 +17,7 @@ permalink: /upcoming/
 - 22-24 Hack in the Box - Amsterdam
 
 ### May
+- TBC Hacker Congress Conference
 
 ### June 
 - 2-3 BSides London
