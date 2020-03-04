@@ -46,3 +46,15 @@ permalink: /events/
 <p align="center">
   <img src="{{"/assets/img/sistem.jpg" | relative_url }}" alt="29 SISTEM 2020 - UCD Campus" width="350" />
 </p>
+
+
+### March 2020
+- 03 Postman Workshop - The Gibson Hotel <br />
+<p align="center">
+  <img src="{{"/assets/img/postman.jpg" | relative_url }}" alt="03 Postman Workshop - The Gibson Hotel" width="350" />
+</p>
+
+- 04 Guest Panelist for International Womens Day - Dell EMC <br />
+<p align="center">
+  <img src="{{"/assets/img/IWDDell.jpg" | relative_url }}" alt="04 Guest Panelist for International Womens Day - Dell EMC" width="350" />
+</p>
