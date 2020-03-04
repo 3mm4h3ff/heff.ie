@@ -5,8 +5,6 @@ permalink: /upcoming/
 ---
 
 ### March 
-- 3 Postman Galaxy Tour: Dublin
-- 4 International Womens Day - Dell Cherrywood (Invitation ONLY)
 - 12 IBM Think Summit 
 - 16-20 HackTrinity CTF - Online
 - 28 BSides Dublin - Convention Centre
