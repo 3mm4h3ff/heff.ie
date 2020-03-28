@@ -6,18 +6,18 @@ permalink: /upcoming/
 ## Please note that conferences may be postponed or cancelled and that I will update as a batch once dates are confirmed.
 
 ### Conferences Postponed - Unconfirmed Date
-- Postponed BSides Dublin - Convention Centre
-- Postponed Hack in the Box - Amsterdam
 - Postponed Hacker Congress Conference
 - Postponed to 2021 Global AppSec EU
-
+### Cancelled for 2020
+- BSides Dublin - Convention Centre
+- Hack in the Box - Amsterdam
+ 
 ### March 
 - 16-20 HackTrinity CTF - Online
 
 ### April 
 
 ### May
-- TBC Hacker Congress Conference
 
 ### June 
 - 2-3 BSides London
