@@ -3,7 +3,7 @@ layout: page
 title: Infosec
 permalink: /infosec/
 ---
-![infosec]({{ "/assets/img/infosec.jpeg" | relative_url }})
+![infosec]({{ "/assets/img/stickers.jpeg" | relative_url }})
 
 Recently I started posting questions I thought might be helpful for newcomers or anyone already in the infosec industry looking to develop and expand their skills.
 
